@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.springframework.org/schema/integration/jms" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.3/extResources/db49f669_spring-integration-jms.xsd" />
+    <resource url="http://www.springframework.org/schema/integration/spring-integration-1.0.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.3/extResources/5e823d2d_spring-integration-1.0.xsd" />
+  </component>
+</application>
