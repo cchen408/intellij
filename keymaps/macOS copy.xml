@@ -8,6 +8,9 @@
   <action id="Diff.PrevChange">
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
