@@ -1,7 +1,7 @@
 <application>
   <component name="PathMacrosImpl">
     <macro name="KOTLIN_BUNDLED" value="/Applications/IntelliJ IDEA 2019.3 EAP.app/Contents/plugins/Kotlin/kotlinc" />
-    <macro name="MAVEN_REPOSITORY" value="/Users/chrichen/.m2/raptor2" />
+    <macro name="MAVEN_REPOSITORY" value="/Users/chrichen/.m2/repository" />
     <ignoredMacro name="KOTLIN_BUNDLED" />
   </component>
 </application>
