@@ -53,6 +53,11 @@
           <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
         </PlaceSettings>
       </entry>
+      <entry key="Merge">
+        <PlaceSettings>
+          <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
+        </PlaceSettings>
+      </entry>
       <entry key="VcsLogView">
         <PlaceSettings>
           <option name="ENABLE_SYNC_SCROLL" value="false" />
