@@ -4,7 +4,7 @@
     <property name="created">2019-11-06T00:33:04</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-11-06T13:50:02</property>
+    <property name="modified">2019-11-08T17:10:45</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -483,7 +483,7 @@
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="616161" />
+        <option name="FOREGROUND" value="3bbfe9" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
