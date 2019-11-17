@@ -37,6 +37,9 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="ctrl alt z" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
