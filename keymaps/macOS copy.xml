@@ -24,6 +24,7 @@
   <action id="Git.Unstash">
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
   </action>
+  <action id="GotoTest" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta f12" />
     <keyboard-shortcut first-keystroke="ctrl alt 0" />
@@ -32,20 +33,21 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
   <action id="MoveEditorToOppositeTabGroup">
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt open_bracket" />
   </action>
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl right" />
-  </action>
-  <action id="OpenEditorInOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
+  <action id="OpenEditorInOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl alt close_bracket" />
+  </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="ctrl alt z" />
+    <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+  <action id="ServiceView.ShowServices" />
   <action id="ShowFilterPopup" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
