@@ -14,6 +14,10 @@
           <option name="url" value="git@github.com:cchen408/mac-setup.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.paypal.com:WCHIU/partnerdatanodeserv.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/paypal/my-services" />
