@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt t" />
   </action>
   <action id="ChangesView.Move" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+  </action>
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
