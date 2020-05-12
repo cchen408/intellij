@@ -1,0 +1,7 @@
+<templateSet group="Eslint">
+  <template name="eslint-disable-line-no-unused-vars" value="// eslint-disable-line no-unused-vars" description="Disable Line No Unused Vars" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
