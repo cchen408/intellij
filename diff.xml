@@ -55,7 +55,7 @@
       <entry key="Default">
         <PlaceSettings>
           <option name="ENABLE_SYNC_SCROLL" value="false" />
-          <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
           <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
