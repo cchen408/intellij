@@ -74,9 +74,13 @@
           <option name="url" value="git@github.paypal.com:chrichen/marketplaces.ChannelsSpecification.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.paypal.com:merchant-services/ebay-oauth.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/paypal/ppaas-repos" />
+    <option name="cloneParentDir" value="$USER_HOME$/paypal/my-services" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
