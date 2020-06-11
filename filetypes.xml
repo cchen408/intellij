@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="onconfig" type="JavaScript" />
       <mapping pattern="kmstart" type="JavaScript" />
+      <mapping pattern="{store_id}" type="JavaScript" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
