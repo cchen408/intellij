@@ -110,9 +110,13 @@
           <option name="url" value="git@github.paypal.com:ConsumerWeb-R/debitcardnodeweb.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:cchen408/robinhood.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/paypal/services" />
+    <option name="cloneParentDir" value="$USER_HOME$/coding" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
