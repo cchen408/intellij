@@ -122,9 +122,13 @@
           <option name="url" value="git@github.paypal.com:merchant-services/channel-manager.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.paypal.com:GraphQL-R/sample-app-midtier.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/paypal/my-services" />
+    <option name="cloneParentDir" value="$USER_HOME$/paypal/reference" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
