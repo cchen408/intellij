@@ -24,6 +24,15 @@
     <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
     <option name="KEEP_BLANK_LINES" value="true" />
   </Properties>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
+  <codeStyleSettings language="GraphQL">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
