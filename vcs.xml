@@ -134,13 +134,9 @@
           <option name="url" value="git@github.paypal.com:chrichen/graphql.reporting.TransactionsSpecification.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@github.com:cchen408/ganache-test.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/coding/binance-smart-chain" />
+    <option name="cloneParentDir" value="$USER_HOME$/paypal/ppaas-repos" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
