@@ -1,6 +1,6 @@
 <templateSet group="Java">
   <template name="staticloggerslf4j" value="final static Logger logger = LoggerFactory.getLogger($className$.class);&#10;$END$" shortcut="ENTER" description="Static logger for each file" toReformat="true" toShortenFQNames="true">
-    <variable name="className" expression="" defaultValue="" alwaysStopAt="false" />
+    <variable name="className" expression="className()" defaultValue="this" alwaysStopAt="false" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>

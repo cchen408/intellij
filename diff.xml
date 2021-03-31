@@ -24,8 +24,8 @@
         <PlaceSettings>
           <option name="DIFF_TOOLS_ORDER">
             <list>
-              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
               <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
+              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
               <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
               <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool" />
               <option value="com.intellij.database.model.diff.SchemaDiffTool" />
@@ -45,7 +45,8 @@
     <option name="PLACES_MAP">
       <entry key="ChangesView">
         <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
         </PlaceSettings>
       </entry>
       <entry key="CommitDialog">
@@ -56,18 +57,20 @@
       </entry>
       <entry key="Default">
         <PlaceSettings>
-          <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
+          <option name="ENABLE_SYNC_SCROLL" value="false" />
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
           <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
       <entry key="Merge">
         <PlaceSettings>
+          <option name="HIGHLIGHTING_LEVEL" value="ADVANCED" />
           <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
         </PlaceSettings>
       </entry>
       <entry key="VcsLogView">
         <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
         </PlaceSettings>
       </entry>

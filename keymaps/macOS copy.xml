@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt t" />
   </action>
   <action id="ChangesView.Move" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+  </action>
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
@@ -41,6 +44,9 @@
   <action id="OpenEditorInOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift ctrl alt close_bracket" />
   </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
@@ -53,4 +59,5 @@
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
   <action id="Vcs.MoveChangedLinesToChangelist" />
+  <action id="rspec.LetIntroduce" />
 </keymap>
